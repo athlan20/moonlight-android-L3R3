@@ -12,6 +12,11 @@ Moonlight also has a [PC client](https://github.com/moonlight-stream/moonlight-q
 
 You can follow development on our [Discord server](https://moonlight-stream.org/discord) and help translate Moonlight into your language on [Weblate](https://hosted.weblate.org/projects/moonlight/moonlight-android/).
 
+## L3R3
+add l3 and r3
+![image](https://github.com/user-attachments/assets/195cc57e-01d4-41c4-9586-e34fa2d506f3)
+
+
 ## Downloads
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.limelight)
 * [Amazon App Store](https://www.amazon.com/gp/product/B00JK4MFN2)
